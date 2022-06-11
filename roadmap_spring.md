@@ -40,4 +40,17 @@ Seguem alguns links que podem ajudar no entendimento:
 E como o spring aplicação a injeção de dependência ? Consulte o link a seguir 
 
 - https://www.baeldung.com/constructor-injection-in-spring
--  
+
+
+### Básico sobre apis e REST
+
+Saber como construir uma api é definitivamente um dos conhecimentos mais importantes que você precisa ter no mercado de trabalho hoje em dia.
+
+Mais importante do que saber construir a api é fazê-la ser simples, prática para uso e aderente ao modelo REST. Para aprender um pouco mais sobre REST recomendo a leitura desta documentação da microssoft:
+- https://docs.microsoft.com/pt-br/azure/architecture/best-practices/api-design
+
+
+Uma vez que você tenha aprendido o básico sobre rest, que tal fazer uma primeira api seguindo a documentação do spring boot ?
+ - https://spring.io/guides/gs/rest-service/
+
+> Recomendo que você inicie o projeto pelo [spring initilzr](https://start.spring.io/) para que você já se acostume com esta fantastica ferramenta que permite gerar projetos spring rapidamente.
